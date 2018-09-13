@@ -1,0 +1,30 @@
+_repo: Woodcraft-Boys-at-Sunset-Island_51319
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hoisington, May Folwell
+    alias: Hoisington, M. F.
+    birthdate: 1874
+    gutenberg_agent_id: '46357'
+    url: http://www.gutenberg.org/2009/agents/46357
+  - agent_name: Roy, Lillian Elizabeth
+    alias: Roy, Lillian Elizabeth Becker
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '1910'
+    url: http://www.gutenberg.org/2009/agents/1910
+description: ''
+gutenberg_issued: '2016-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Woodcraft Boys at Sunset Island
+url: http://www.gutenberg.org/ebooks/51319

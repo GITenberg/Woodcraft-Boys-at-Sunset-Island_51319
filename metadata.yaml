@@ -1,5 +1,8 @@
 _repo: Woodcraft-Boys-at-Sunset-Island_51319
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51319-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hoisington, May Folwell
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '1910'
     url: http://www.gutenberg.org/2009/agents/1910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51319#Woodcraft-Boys-at-Sunset-Island
 gutenberg_issued: '2016-02-28'
 gutenberg_type: Text
 identifiers:
